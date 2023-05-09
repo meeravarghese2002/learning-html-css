@@ -1,0 +1,28 @@
+.blue {
+    color:rgba(255,255,0,.5);
+    color:#00000000;
+    color:hsla(0,100%,50%,1);
+}
+.yellow {
+    color:rgb(255,255,0);
+}
+.black {
+    color:black;
+}
+h1 {
+    color:brown;
+}
+#id.class.class2 {
+
+}
+body {
+    color:black;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin:50px;
+    border: 10px solid black;
+    background-color: darkred;
+}
